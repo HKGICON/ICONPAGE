@@ -1,0 +1,76 @@
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+function InsertText(ICON){
+var content = $("#textbox").val();
+$("input#textbox").val(content+ICON);
+}
+</script>
+</head>
+
+
+<table cellpadding="0" cellspacing="0" style="display: table;">
+                                            <tbody><tr>
+                                                <td colspan="2">
+                                                    <a href="javascript:InsertText('O:-)')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/angel.gif" width="15" height="23" alt="O:-)"></a>
+                                                    <a href="javascript:InsertText('xx(')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/dead.gif" width="15" height="15" alt="xx("></a>  
+                                                    <a href="javascript:InsertText(':)')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/smile.gif" width="15" height="15" alt=":)"></a>
+                                                    <a href="javascript:InsertText(':o)')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/clown.gif" width="15" height="15" alt=":o)"></a>
+                                                    <a href="javascript:InsertText(':-(')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/frown.gif" width="15" height="15" alt=":-("></a>
+                                                    <a href="javascript:InsertText(':~(')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/cry.gif" alt=":~("></a>
+                                                    <a href="javascript:InsertText(';-)')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/wink.gif" width="15" height="15" alt=";-)"></a>
+                                                    <a href="javascript:InsertText(':-[')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/angry.gif" width="15" height="15" alt=":-["></a>
+                                                    <a href="javascript:InsertText(':-]')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/devil.gif" width="15" height="15" alt=":-]"></a>
+                                                    <a href="javascript:InsertText(':D')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/biggrin.gif" width="15" height="15" alt=":D"></a>
+                                                    <a href="javascript:InsertText(':O')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/oh.gif" width="15" height="15" alt=":O"></a>
+                                                    <a href="javascript:InsertText(':P')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/tongue.gif" width="15" height="15" alt=":P"></a>
+                                                    <a href="javascript:InsertText('^3^')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/kiss.gif" alt="^3^"></a>
+                                                    <a href="javascript:InsertText('?_?')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/wonder.gif" alt="?_?"></a>
+                                                    <a href="javascript:InsertText('#yup#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/agree.gif" width="26" height="28" alt="#yup#"></a>
+                                                    <a href="javascript:InsertText('#ng#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/donno.gif" width="16" height="16" alt="#ng#"></a>
+                                                    <a href="javascript:InsertText('#hehe#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/hehe.gif" width="15" height="15" alt="#hehe#"></a>
+                                                    <a href="javascript:InsertText('#love#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/love.gif" width="19" height="19" alt="#love#"></a>
+                                                    <a href="javascript:InsertText('#oh#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/surprise.gif" width="15" height="15" alt="#oh#"></a>
+                                                    <a href="javascript:InsertText('#cn#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/chicken.gif" width="18" height="13" alt="#cn#"></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <a href="javascript:InsertText('#ass#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/ass.gif" alt="#ass#"></a>
+                                                    <a href="javascript:InsertText('[sosad]')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/sosad.gif" alt="[sosad]"></a>
+                                                    <a href="javascript:InsertText('#good#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/good.gif" alt="#good#"></a>
+                                                    <a href="javascript:InsertText('#hoho#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/hoho.gif" alt="#hoho#"></a>
+                                                    <a href="javascript:InsertText('#kill#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/kill.gif" alt="#kill#"></a>
+                                                    <a href="javascript:InsertText('#bye#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/bye.gif" alt="#bye#"></a>
+                                                    <a href="javascript:InsertText('Z_Z')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/z.gif" alt="Z_Z"></a>
+                                                    <a href="javascript:InsertText('@_@')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/@.gif" alt="@_@"></a>
+                                                    <a href="javascript:InsertText('#adore#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/adore.gif" alt="#adore#"></a>
+                                                    <a href="javascript:InsertText('???')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/wonder2.gif" alt="???"></a>
+                                                    <a href="javascript:InsertText('[banghead]')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/banghead.gif" alt="[banghead]"></a>
+                                                    <a href="javascript:InsertText('[bouncer]')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/bouncer.gif" alt="[bouncer]"></a>
+                                                    <a href="javascript:InsertText('[bouncy]')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/bouncy.gif" alt="[bouncy]"></a>
+                                                    </td>
+                                                    <td rowspan="2" valign="bottom">
+                                                    <a href="javascript:InsertText('[offtopic]')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/offtopic.gif" alt="[offtopic]"></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <a href="javascript:InsertText('[censored]')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/censored.gif" alt="[censored]"></a>
+                                                    <a href="javascript:InsertText('[flowerface]')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/flowerface.gif" alt="[flowerface]"></a>
+                                                    <a href="javascript:InsertText('[shocking]')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/shocking.gif" alt="[shocking]"></a>
+                                                    <a href="javascript:InsertText('[photo]')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/photo.gif" alt="[photo]"></a>
+                                                    <a href="javascript:InsertText('#fire#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/fire.gif" alt="#fire#"></a>
+                                                    <a href="javascript:InsertText('[yipes]')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/yipes.gif" alt="[yipes]"></a>
+                                                    <a href="javascript:InsertText('[369]')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/369.gif" alt="[369]"></a>
+                                                    <a href="javascript:InsertText('[bomb]')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/bomb.gif" alt="[bomb]"></a>
+                                                    <a href="javascript:InsertText('[slick]')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/slick.gif" alt="[slick]"></a>
+                                                    <a href="javascript:InsertText('fuck')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/fuck.gif" alt="fuck"></a>
+                                                    <a href="javascript:InsertText('#no#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/no.gif" alt="#no#"></a>
+                                                    <a href="javascript:InsertText('#kill2#')"><img style="border-width: 0px;" src="http://forum10.hkgolden.com/faces/kill2.gif" alt="#kill2#"></a>
+                                                </td>
+                                            </tr>
+                                    </tbody></table>
+									
+								<input type="text" id="textbox"></input>
